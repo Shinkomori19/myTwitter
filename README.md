@@ -4,4 +4,6 @@ HTML/CSS, JavaScript, Node.js, SQLiteを用いて作成。
 
 
 デモ動画
-https://user-images.githubusercontent.com/92618247/231403760-0dacc8a7-e5cb-4db9-b8d3-118121b91444.mov
+
+
+https://user-images.githubusercontent.com/92618247/231404601-ad000a4c-be78-4252-b858-310147811e38.mp4
